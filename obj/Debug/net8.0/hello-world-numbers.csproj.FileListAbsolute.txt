@@ -1,0 +1,5 @@
+C:\hello-world-numbers\obj\Debug\net8.0\hello-world-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\hello-world-numbers\obj\Debug\net8.0\hello-world-numbers.AssemblyInfoInputs.cache
+C:\hello-world-numbers\obj\Debug\net8.0\hello-world-numbers.AssemblyInfo.cs
+C:\hello-world-numbers\obj\Debug\net8.0\hello-world-numbers.csproj.CoreCompileInputs.cache
+C:\hello-world-numbers\obj\Debug\net8.0\hello-world-numbers.sourcelink.json
