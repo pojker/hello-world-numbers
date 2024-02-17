@@ -30,7 +30,7 @@ int c = a / b;
 Console.WriteLine(c);
 
 Output = 3
-*/
+
 
 
 //Order of operations
@@ -70,3 +70,32 @@ int d = (a + b) / c;
 Console.WriteLine(d);
 
 //Output = 3 (3,66666)
+
+
+
+
+
+int a = 7;
+int b = 4;
+int c = 3;
+int d = (a + b) / c;
+int e = (a + b) % c;
+Console.WriteLine($"quotient: {d}");
+Console.WriteLine($"remainder: {e}");
+
+//quotient: 3
+//remainder: 2
+*/
+
+
+
+int max = int.MaxValue;
+int min = int.MinValue;
+Console.WriteLine($"The range of integers is {min} to {max}");
+
+
+int what = max + 3;
+Console.WriteLine($"An example of overflow: {what}");
+
+//Output: The range of integers is -2147483648 to 2147483647
+//An example of overflow: -2147483646
